@@ -26,5 +26,6 @@ class Main {
     System.out.println(1/2); //both values are int so answer is an int
     System.out.println(1/2.0); //if one is a double then the answer will be a double
 
+    System.out.println(num1+" "+num2);//Adds a space between varibles
   }
 }
